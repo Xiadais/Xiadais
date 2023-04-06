@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Xiadais
 - 👀 I’m interested in coding in general
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C#/Unity
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ... I am not sure
